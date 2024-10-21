@@ -55,13 +55,13 @@ ONLINE-LEARNING-PLATFORM-USING-MERN/
 │   ├── public/             
 │   ├── src/
 │       ├── pages/
-        ├── app.js
-        ├── index.js
+│        ├── app.js
+│        ├── index.js
 │   ├── build/
 │       ├── static/
-             ├── css
-             ├── js
-             ├── media
+│             ├── css
+│             ├── js
+│             ├── media
 └── README.md
 ```
 
