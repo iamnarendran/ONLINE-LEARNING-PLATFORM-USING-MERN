@@ -31,14 +31,14 @@ Our online learning platform empowers educators and students by offering a compr
   - 🧪 **Testing Suite**: Ensure app stability with Jest and Cypress
   - 📝 **Admin Features**: Role-based access control for managing users and content
 
-### **⚙️ Tech Stack** ###
+### **⚙️ Tech Stack**:
 
-**MongoDB 🗄️**: NoSQL database for flexible data management
-**Express.js 🚏+*: Web application framework for Node.js
-**React.js ⚛️**: Modern frontend library for building user interfaces
-**Node.js 🌐**: JavaScript runtime environment for building scalable server-side applications
-**JWT 🔑**: secure token-based authentication
-**Axios 📡**: Used for making HTTP requests from the frontend
+   - **MongoDB 🗄️**: NoSQL database for flexible data management
+   - **Express.js 🚏**: Web application framework for Node.js
+   - **React.js ⚛️**: Modern frontend library for building user interfaces
+   - **Node.js 🌐**: JavaScript runtime environment for building scalable server-side applications
+   - **JWT 🔑**: secure token-based authentication
+   - **Axios 📡**: Used for making HTTP requests from the frontend
 
 ## 🏗️ **Project Structure**
 
