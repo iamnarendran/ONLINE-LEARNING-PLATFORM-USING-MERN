@@ -46,14 +46,22 @@ Our online learning platform empowers educators and students by offering a compr
 ONLINE-LEARNING-PLATFORM-USING-MERN/
 ├── backend/       
 │   ├── models/
-│   ├── routes/             
-│   ├── config/                 
+│       ├── userlist.js
+│   ├── routes/     
+│       ├── userlist.js       
+│   ├── config/
+│       ├── db.js                
 ├── frontend/
 │   ├── public/             
 │   ├── src/
-│   │   ├── pages/
+│       ├── pages/
+        ├── app.js
+        ├── index.js
 │   ├── build/
-│   │   ├── static/           
+│       ├── static/
+             ├── css
+             ├── js
+             ├── media
 └── README.md
 ```
 
