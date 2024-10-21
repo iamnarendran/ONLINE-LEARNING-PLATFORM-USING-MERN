@@ -43,7 +43,7 @@ Our online learning platform empowers educators and students by offering a compr
 ## 🏗️ **Project Structure**
 
 ```bash
-project-folder/
+ONLINE-LEARNING-PLATFORM-USING-MERN/
 ├── backend/       
 │   ├── models/
 │   ├── routes/             
