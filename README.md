@@ -44,16 +44,14 @@ Our online learning platform empowers educators and students by offering a compr
 
 ```bash
 project-folder/
-├── backend/
-│   ├── controllers/        # Logic for handling requests
-│   ├── models/             # Mongoose models for MongoDB
-│   ├── routes/             # API route definitions
-│   ├── config/             # Environment and database configuration
-│   └── server.js           # Entry point for the backend server
+├── backend/       
+│   ├── models/
+│   ├── routes/             
+│   ├── config/                 
 ├── frontend/
-│   ├── public/             # Static assets
+│   ├── public/             
 │   ├── src/
-│   │   ├── components/     # Reusable UI components
-│   │   ├── pages/          # Pages for different views (Home, Courses, etc.)
-│   │   └── App.js          # Main React component
+│   │   ├── pages/
+│   ├── build/
+│   │   ├── static/           
 └── README.md
