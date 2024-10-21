@@ -48,3 +48,12 @@ project-folder/
 │   │   ├── pages/          # Pages for different views (Home, Courses, etc.)
 │   │   └── App.js          # Main React component
 └── README.md
+
+# 🚀 Getting Started
+
+1. **Clone the repository**
+
+- **Backend**:
+  ```bash
+  cd backend
+  npm install
